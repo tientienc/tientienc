@@ -130,7 +130,7 @@ img {
 /*NAVIGATION*/
 nav, .navbar-prj {
 	background-color: white;
-	position: fixed;
+	/*position: fixed;*/
 	border-bottom: 1px solid #ccc;
 	padding: 10px 0px;
 	width: 100%;
